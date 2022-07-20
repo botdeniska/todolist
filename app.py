@@ -75,4 +75,4 @@ def change_task_status(task_id: int):
 
 if __name__ == '__main__':
     db.init_db()
-    app.run(port=8082, debug=True)
+    app.run(port=8082, debug=False)
