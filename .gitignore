@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+.DB_Store
+*.db
+save.py
+tasks.db
+.DS_Store
